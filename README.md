@@ -1,2 +1,2 @@
 # Homeworks
-Homeworks for HSE course "Introduction in python and R"
+Homeworks for HSE course "Introduction to python/R"
